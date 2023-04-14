@@ -1,0 +1,14 @@
+<svg viewBox="4.925 -0.634 94.727 93.261" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="34.728" y1="33.021" x2="34.728" y2="92.627" id="gradient-0" gradientTransform="matrix(0.816327, 0.57759, -0.614754, 0.868852, 41.824184, -11.819336)">
+      <stop offset="0" style="stop-color: rgb(251, 113, 133);"/>
+      <stop offset="1" style="stop-color: rgb(99, 102, 241);"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="34.728" y1="33.021" x2="34.728" y2="92.627" id="gradient-1" gradientTransform="matrix(0.816328, 0.57759, -0.614754, 0.868854, 66.252944, -32.828123)">
+      <stop offset="0" style="stop-color: rgb(251, 113, 133);"/>
+      <stop offset="1" style="stop-color: rgb(99, 102, 241);"/>
+    </linearGradient>
+  </defs>
+  <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: url(#gradient-0);" cx="34.728" cy="62.824" rx="29.803" ry="29.803"/>
+  <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: url(#gradient-1);" cx="59.157" cy="41.815" rx="29.803" ry="29.803" transform="matrix(-0.893713, 0.448638, -0.448638, -0.893713, 131.274826, 50.202629)"/>
+</svg>
