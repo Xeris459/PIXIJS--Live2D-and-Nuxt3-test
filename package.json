@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.2.0",
+    "nuxt": "^3.0.0",
+    "nuxt-icon": "^0.2.6"
+  },
+  "dependencies": {
+    "@nuxtjs/google-fonts": "^2.0.0",
+    "@pinia/nuxt": "^0.4.6",
+    "@pixi/interaction": "^6.5.8",
+    "@vueuse/nuxt": "^9.10.0",
+    "gsap": "^3.11.4",
+    "pixi-live2d-display": "^0.4.0",
+    "pixi.js": "6.5.2"
+  }
+}
